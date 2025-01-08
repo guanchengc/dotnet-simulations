@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:drawable="clr-namespace:MauiApp1.Resources.Drawables"
+             x:Class="MauiApp1.Boids"
+             Title="Boids" Loaded="ContentPage_Loaded">
+
+    <ContentPage.Resources>
+        <drawable:BoidsDrawable x:Key="BoidsDrawable" />
+    </ContentPage.Resources>
+    <ScrollView>
+        <StackLayout>
+            <GraphicsView 
+                x:Name="Canvas"                 
+                HorizontalOptions="Fill"
+                Drawable="{StaticResource BoidsDrawable}" 
+                HeightRequest="1000" BackgroundColor="#000000"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guanc\\source\\repos\\cProject\\MauiApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4675EA68-61ED-4958-811D-F14DB933DEB3}|MauiApp1.csproj|c:\\users\\guanc\\source\\repos\\cproject\\mauiapp1\\lorenz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675EA68-61ED-4958-811D-F14DB933DEB3}|MauiApp1.csproj|solutionrelative:lorenz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675EA68-61ED-4958-811D-F14DB933DEB3}|MauiApp1.csproj|c:\\users\\guanc\\source\\repos\\cproject\\mauiapp1\\mauiapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4675EA68-61ED-4958-811D-F14DB933DEB3}|MauiApp1.csproj|solutionrelative:mauiapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675EA68-61ED-4958-811D-F14DB933DEB3}|MauiApp1.csproj|c:\\users\\guanc\\source\\repos\\cproject\\mauiapp1\\mauiapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4675EA68-61ED-4958-811D-F14DB933DEB3}|MauiApp1.csproj|solutionrelative:mauiapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lorenz.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\guanc\\source\\repos\\cProject\\MauiApp1\\Lorenz.xaml.cs",
+              "RelativeDocumentMoniker": "Lorenz.xaml.cs",
+              "ToolTip": "C:\\Users\\guanc\\source\\repos\\cProject\\MauiApp1\\Lorenz.xaml.cs",
+              "RelativeToolTip": "Lorenz.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:18:03.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiApp1",
+              "DocumentMoniker": "C:\\Users\\guanc\\source\\repos\\cProject\\MauiApp1\\MauiApp1.csproj",
+              "RelativeDocumentMoniker": "MauiApp1.csproj",
+              "ToolTip": "C:\\Users\\guanc\\source\\repos\\cProject\\MauiApp1\\MauiApp1.csproj",
+              "RelativeToolTip": "MauiApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T08:46:44.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\guanc\\source\\repos\\cProject\\MauiApp1\\MauiApp1.csproj",
+              "RelativeDocumentMoniker": "MauiApp1.csproj",
+              "ToolTip": "C:\\Users\\guanc\\source\\repos\\cProject\\MauiApp1\\MauiApp1.csproj",
+              "RelativeToolTip": "MauiApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T08:37:15.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

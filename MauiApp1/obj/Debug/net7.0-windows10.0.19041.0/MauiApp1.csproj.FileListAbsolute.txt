@@ -1,0 +1,5 @@
+C:\Users\guanc\source\repos\cProject\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\MauiApp1.csproj.AssemblyReference.cache
+C:\Users\guanc\source\repos\cProject\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guanc\source\repos\cProject\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\MauiApp1.AssemblyInfoInputs.cache
+C:\Users\guanc\source\repos\cProject\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\MauiApp1.AssemblyInfo.cs
+C:\Users\guanc\source\repos\cProject\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\MauiApp1.csproj.CoreCompileInputs.cache

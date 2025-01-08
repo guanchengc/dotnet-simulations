@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:drawable="clr-namespace:MauiApp1.Resources.Drawables"
+             x:Class="MauiApp1.NewPage1"
+             Title="NewPage1" Loaded="ContentPage_Loaded">
+
+    <ContentPage.Resources>
+        <drawable:CanvasDrawable x:Key="CanvasDrawable" />
+    </ContentPage.Resources>
+    <ScrollView>
+        <StackLayout>
+        <GraphicsView 
+                x:Name="Canvas"                 
+                HorizontalOptions="Fill"
+                Drawable="{StaticResource CanvasDrawable}" 
+                HeightRequest="1000" BackgroundColor="#000000"/>
+        <Button Text="Press me!" 
+            x:Name="SpawnButton"
+            Clicked="OnButtonClicked"
+                />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
